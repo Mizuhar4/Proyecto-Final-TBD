@@ -1,0 +1,76 @@
+causa,año,muertes_totales_neo4j,tasa_promedio_nacional_clickhouse,estados_reportados
+Cancer,1999,549838,200.8,51
+Cancer,2000,553091,199.6,51
+Cancer,2001,553768,196.5,51
+Cancer,2002,557271,194.3,51
+Cancer,2003,556902,190.9,51
+Cancer,2004,553888,186.8,51
+Cancer,2005,559312,185.1,51
+Cancer,2006,559888,181.8,51
+Cancer,2007,562875,179.3,51
+Cancer,2008,565469,176.4,51
+Cancer,2009,567628,173.5,51
+Cancer,2010,574743,172.8,51
+Cancer,2011,576691,169.0,51
+Cancer,2012,582623,166.5,51
+Cancer,2013,584881,163.2,51
+Diseases of Heart,1999,725192,266.5,51
+Diseases of Heart,2000,710760,257.6,51
+Diseases of Heart,2001,700142,249.5,51
+Diseases of Heart,2002,696947,244.6,51
+Diseases of Heart,2003,685089,236.3,51
+Diseases of Heart,2004,652486,221.6,51
+Diseases of Heart,2005,652091,216.8,51
+Diseases of Heart,2006,631636,205.5,51
+Diseases of Heart,2007,616067,196.1,51
+Diseases of Heart,2008,616828,192.1,51
+Diseases of Heart,2009,599413,182.8,51
+Diseases of Heart,2010,597689,179.1,51
+Diseases of Heart,2011,596577,173.7,51
+Diseases of Heart,2012,599711,170.5,51
+Diseases of Heart,2013,611105,169.8,51
+Influenza and pneumonia,1999,63730,23.5,51
+Influenza and pneumonia,2000,65313,23.7,51
+Influenza and pneumonia,2001,62034,22.2,51
+Influenza and pneumonia,2002,65681,23.2,51
+Influenza and pneumonia,2003,65163,22.6,51
+Influenza and pneumonia,2004,59664,20.4,51
+Influenza and pneumonia,2005,63001,21.0,51
+Influenza and pneumonia,2006,56326,18.4,51
+Influenza and pneumonia,2007,52717,16.8,51
+Influenza and pneumonia,2008,56284,17.6,51
+Influenza and pneumonia,2009,53692,16.5,51
+Influenza and pneumonia,2010,50097,15.1,51
+Influenza and pneumonia,2011,53826,15.7,51
+Influenza and pneumonia,2012,50636,14.5,51
+Influenza and pneumonia,2013,56979,15.9,51
+Stroke,1999,167366,61.6,51
+Stroke,2000,167661,60.9,51
+Stroke,2001,163538,58.4,51
+Stroke,2002,162672,57.2,51
+Stroke,2003,157689,54.6,51
+Stroke,2004,150074,51.2,51
+Stroke,2005,143579,48.0,51
+Stroke,2006,137119,44.8,51
+Stroke,2007,135952,43.5,51
+Stroke,2008,134148,42.1,51
+Stroke,2009,128842,39.6,51
+Stroke,2010,129476,39.1,51
+Stroke,2011,128932,37.9,51
+Stroke,2012,128546,36.9,51
+Stroke,2013,128978,36.2,51
+Unintentional Injuries,1999,97860,35.3,51
+Unintentional Injuries,2000,97900,34.9,51
+Unintentional Injuries,2001,101537,35.7,51
+Unintentional Injuries,2002,106742,37.1,51
+Unintentional Injuries,2003,109277,37.6,51
+Unintentional Injuries,2004,112012,38.1,51
+Unintentional Injuries,2005,117809,39.5,51
+Unintentional Injuries,2006,121599,40.2,51
+Unintentional Injuries,2007,123706,40.4,51
+Unintentional Injuries,2008,121902,39.2,51
+Unintentional Injuries,2009,118021,37.5,51
+Unintentional Injuries,2010,120859,38.0,51
+Unintentional Injuries,2011,126438,39.1,51
+Unintentional Injuries,2012,127792,39.1,51
+Unintentional Injuries,2013,130557,39.4,51
