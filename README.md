@@ -25,8 +25,8 @@ Proyecto-Final-TBD/
 Antes de ejecutar los scripts, asegúrate de tener instalado:
 
 - **Neo4j Desktop** o servidor local en `localhost:7687`
-- **ClickHouse** (`clickhouse-client`)
-- **Python 3.10+** con entorno virtual `venv`
+- **ClickHouse** (`clickhouse-client`) --> `version 25.6.2.5`
+- **Python 3.1** con entorno virtual `venv`
 - Librerías necesarias:
   ```bash
   pip install clickhouse-connect pandas neo4j
