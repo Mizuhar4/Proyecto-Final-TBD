@@ -32,25 +32,31 @@ Antes de ejecutar los scripts, asegúrate de tener instalado:
 - **ClickHouse** (`clickhouse-client`) --> `version 25.6.2.5`
 - **Python 3.1** con entorno virtual `venv`
 - Librerías necesarias:
+  
   ```bash
   pip install clickhouse-connect pandas neo4j
+  ```
 
 ## Instrucciones de Uso
 
 ### 1 Activar tu entorno virtual (opcional pero recomendado, para instalar las librerias)
 
 - Usar el siguiente comando
+
   ```bash
   python3 -m venv myenv
   source myenv/bin/activate
-
+  ```
+  
 ### 2 Cargar datos en ClickHouse
 
 - Abre el archivo clickhouse_setup.py y asegúrate de que el dataset esté en datasets/.
 
 - Ejecuta el script:
+
   ```bash
   python clickhouse_setup.py
+  ```
 
 - Este script carga el archivo Death_Rates1900-2013.csv en una tabla llamada death_rates, usando la base de datos por defecto (default) de ClickHouse. (En este ejemplo no se usa contraseña en ClickHouse)
 
@@ -61,9 +67,11 @@ Antes de ejecutar los scripts, asegúrate de tener instalado:
 - Abre el archivo neo4j_setup.py.
 
 - Ejecuta el script:
+
   ```bash
   python neo4j_setup.py
-
+  ```
+  
 - Este script carga el archivo leading_cause_death.csv a Neo4j, creando los nodos:
 
   - (State {name})
@@ -80,8 +88,10 @@ Antes de ejecutar los scripts, asegúrate de tener instalado:
 ### 4 Ejecutar integración de datos
 
 - Ejecuta el script:
+
   ```bash
   python integration.py
+  ```
 
 - Este script hace lo siguiente:
   - Cruza los datos entre ClickHouse y Neo4j.
