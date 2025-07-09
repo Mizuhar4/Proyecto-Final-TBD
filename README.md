@@ -1,6 +1,6 @@
 # Proyecto Final - Taller de Bases de Datos
 
-### Autores: Benjamin Fernández & Maximiliano Sepúlveda  
+### Autores: BenjamÍn Fernández & Maximiliano Sepúlveda  
 **Tema:** Análisis de causas de mortalidad en Estados Unidos (1900–2013) utilizando integración de bases de datos no relacionales (Neo4j y ClickHouse).
 
 ---
