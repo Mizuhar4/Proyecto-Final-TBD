@@ -17,7 +17,7 @@ Proyecto-Final-TBD/
 │     ├── neo4j_setup.py
 │     └── integration.py
 │
-├── informe.PDF
+├── informe.pdf
 │
 ├── presentacion.pptx
 │
@@ -82,7 +82,7 @@ Antes de ejecutar los scripts, asegúrate de tener instalado:
   - (State)-[:REPORTED {deaths}]->(Cause)
   - (Cause)-[:OCCURRED_IN]->(Year)
 
--Puedes visualizar los grafos en: http://localhost:7474
+- Puedes visualizar los grafos en: http://localhost:7474
 (Usuario: neo4j | Contraseña: pascual1)
 
 ### 4 Ejecutar integración de datos
